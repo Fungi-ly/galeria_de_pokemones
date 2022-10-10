@@ -1,0 +1,22 @@
+{
+  "name": "galeria_de_pokemones",
+  "version": "1.0.0",
+  "description": "Galería personalizada de Pokemones - 1er desafío módulo 6 Desarrollo Backend en node - Llamadas asincronas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krakerbrain/galeria_de_pokemones.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krakerbrain/galeria_de_pokemones/issues"
+  },
+  "homepage": "https://github.com/krakerbrain/galeria_de_pokemones#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
